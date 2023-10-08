@@ -1,0 +1,35 @@
+#b{
+    
+    align-items: center;
+    text-align: center;
+    
+}
+#h
+{
+    align-items: center;
+    font-size: x-large;
+    text-align:center;
+    text-shadow: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#c
+{
+    font-size: x-large;
+    text-align: center;
+    border: 1px solid black;
+    align-items: center;
+    padding-left:  20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 300px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-right :300px;
+    display: inline-block;
+    background-color: rgb(179, 155, 155);
+}
+#x{
+    align-items: center;
+    margin-left: 350px;
+}
